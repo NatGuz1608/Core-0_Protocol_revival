@@ -22,7 +22,6 @@ El juego utiliza un modelo donde el servidor valida todas las acciones críticas
 
 ### 🛡️ Mecánicas de Juego
 * **Health Boosters:** Pickups distribuidos en el mapa que curan al jugador, con detección de colisión y procesamiento de datos exclusivo en el servidor.
-* **Sistema Anti-Caída:** Teletransporte seguro para jugadores que caen fuera de los límites del mapa (Y < -20), garantizando que el personaje regrese a una posición válida sin errores de física.
 
 ---
 
