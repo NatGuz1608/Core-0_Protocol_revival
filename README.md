@@ -1,4 +1,3 @@
-# Re-creating the CLEAN README.md content without citation tags and without MenuScene
 # 🍭 Robot Candy 4 | Core-0 Protocol Revival
 
 ![Unity](https://img.shields.io/badge/Unity-2022.3+-black?logo=unity)
